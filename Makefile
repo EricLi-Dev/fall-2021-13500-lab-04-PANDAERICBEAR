@@ -17,4 +17,4 @@ checkerboard3x3.o: checkerboard3x3.cpp checkerboard3x3.h
 	g++ -c checkerboard3x3.cpp
 
 clean:
-	rm -f main.o funcs.o cross.o checkerboard3x3.o
+	rm -f main main.o funcs.o cross.o checkerboard3x3.o
