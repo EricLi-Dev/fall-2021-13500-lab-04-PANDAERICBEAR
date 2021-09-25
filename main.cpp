@@ -9,7 +9,13 @@ Instructor: Zamansky
 Assignment: Lab 4
 
 Purpose:
-
+Task A - Asks the user to input width and height and prints a solid rectangular box of the requested size using asterisks.
+Task B - Asks the user to input width and height and prints a rectangular checkerboard of the requested size using asterisks and spaces (alternating).
+Task C - Asks the user to input the shape size, and prints a diagonal cross of that dimension.
+Task D - Prints the bottom-left half of a square, given the side length.
+Task E - Prints the top-right half of a square, given the side length.
+Task F - Prints an upside-down trapezoid of given width and height. If the input height is impossibly large for the given width, then the program should report, Impossible shape!
+Task G - Asks the user to input width and height and prints a checkerboard of 3-by-3 squares. (It should work even if the input dimensions are not a multiple of three.)
 */
 
 #include <iostream>
